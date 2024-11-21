@@ -1,2 +1,2 @@
-# parts_for_robotcad_lessons
-Models parts for RobotCAD lessons
+# Parts for RobotCAD lessons
+Chassis, manipulator, multicopter parts for RobotCAD lessons
