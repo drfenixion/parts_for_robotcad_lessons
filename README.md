@@ -13,7 +13,7 @@ Parts of:
 
 ## Русская версия
 
-#### Youtube
+#### YouTube
 <a href="https://www.youtube.com/watch?v=nOZPeLTO1b4" target="_blank">Дифференциальный колесный робот</a> <br />
 <a href="https://www.youtube.com/watch?v=KS_eb2vTqqg" target="_blank">Манипулятор на шасси</a> <br />
 <a href="https://www.youtube.com/watch?v=SamK1FMPblE" target="_blank">Мультикоптер с манипулятором и шасси</a> <br />
