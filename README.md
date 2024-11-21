@@ -1,6 +1,6 @@
 # This is repository of parts for RobotCAD video lessons
 Parts of:
-- Chassis
+- chassis
 - manipulator
 - multicopter
 
