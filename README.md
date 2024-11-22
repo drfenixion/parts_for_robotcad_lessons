@@ -4,7 +4,7 @@ Parts of:
 - manipulator
 - multicopter
 
-# The Video of creating controllable models: <br />
+# The Video of creating controllable robot models: <br />
 
 ## English version
 <a href="https://www.youtube.com/watch?v=NUw6PLPC4x4" target="_blank">Diff drive chassis</a> <br />
